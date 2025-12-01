@@ -1,5 +1,4 @@
 {
-  "name": "Copy of SassaAlert",
-  "description": "A SASSA Payday SMS Notification service with AI financial advice, styled in SASSA official colors.",
-  "requestFramePermissions": []
+  "name": "SassaAlert",
+  "description": "A SASSA Payday SMS Notification service with AI financial advice, styled in SASSA official colors."
 }
